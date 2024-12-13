@@ -1,0 +1,16 @@
+numpy
+cmake
+cdsapi
+netCDF4
+ncvue
+xarray
+matplotlib
+cartopy
+scipy
+folium
+plotly
+nbformat
+psutil
+
+onnx==1.16
+onnxruntime==1.17
